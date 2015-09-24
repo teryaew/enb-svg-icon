@@ -1,0 +1,32 @@
+{
+  "name": "enb-svg-icon",
+  "version": "0.1.0",
+  "description": "enb svg icon",
+  "keywords": [
+    "bem",
+    "enb",
+    "svg",
+    "icon",
+    "sprite"
+  ],
+  "homepage": "https://github.com/teryaew/enb-svg-icon",
+  "bugs": {
+    "url": "https://github.com/teryaew/enb-svg-icon/issues"
+  },
+  "license": "MIT",
+  "author": "Mitya Teryaew <mitya.teryaew@gmail.com>",
+  "main": "techs/enb-svg-icon.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/teryaew/enb-svg-icon.git"
+  },
+  "peerDependencies": {
+    "enb": ">=0.16.0 <1.0.0"
+  },
+  "dependencies": {
+    "bem-naming": "^0.5.1",
+    "html2bemjson": "^1.9.0",
+    "lodash.repeat": "^3.0.1",
+    "vow": "^0.4.10"
+  }
+}
